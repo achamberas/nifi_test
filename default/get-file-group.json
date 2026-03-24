@@ -124,8 +124,8 @@
       "name" : "GetFile",
       "penaltyDuration" : "30 sec",
       "position" : {
-        "x" : 144.0,
-        "y" : -448.0
+        "x" : 112.0,
+        "y" : -496.0
       },
       "properties" : {
         "Keep Source File" : "true",
@@ -245,6 +245,6 @@
   "snapshotMetadata" : {
     "author" : "57bc8412-fb91-4f1b-b3bc-e5a416461840",
     "flowIdentifier" : "get-file-group",
-    "timestamp" : 1774315215606
+    "timestamp" : 1774315343715
   }
 }
