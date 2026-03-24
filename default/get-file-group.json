@@ -69,42 +69,7 @@
       "x" : 0.0,
       "y" : 0.0
     },
-    "processGroups" : [ {
-      "comments" : "",
-      "componentType" : "PROCESS_GROUP",
-      "connections" : [ ],
-      "controllerServices" : [ ],
-      "defaultBackPressureDataSizeThreshold" : "1 GB",
-      "defaultBackPressureObjectThreshold" : 10000,
-      "defaultFlowFileExpiration" : "0 sec",
-      "executionEngine" : "INHERITED",
-      "flowFileConcurrency" : "UNBOUNDED",
-      "flowFileOutboundPolicy" : "STREAM_WHEN_AVAILABLE",
-      "funnels" : [ ],
-      "groupIdentifier" : "flow-contents-group",
-      "identifier" : "0d6a95dc-1058-3688-9bcd-8bc01c9a8153",
-      "inputPorts" : [ ],
-      "labels" : [ ],
-      "maxConcurrentTasks" : 1,
-      "name" : "Test PG",
-      "outputPorts" : [ ],
-      "position" : {
-        "x" : 600.0,
-        "y" : -264.0
-      },
-      "processGroups" : [ ],
-      "processors" : [ ],
-      "remoteProcessGroups" : [ ],
-      "scheduledState" : "ENABLED",
-      "statelessFlowTimeout" : "1 min",
-      "versionedFlowCoordinates" : {
-        "branch" : "main",
-        "bucketId" : "default",
-        "flowId" : "test-flow",
-        "storageLocation" : "git@github.com:achamberas/nifi_test.git",
-        "version" : "fe85430b3aabbdd2597dda7e4d4c5ea1ddec89f2"
-      }
-    } ],
+    "processGroups" : [ ],
     "processors" : [ {
       "autoTerminatedRelationships" : [ ],
       "backoffMechanism" : "PENALIZE_FLOWFILE",
@@ -245,6 +210,6 @@
   "snapshotMetadata" : {
     "author" : "57bc8412-fb91-4f1b-b3bc-e5a416461840",
     "flowIdentifier" : "get-file-group",
-    "timestamp" : 1774315343715
+    "timestamp" : 1774315715037
   }
 }
