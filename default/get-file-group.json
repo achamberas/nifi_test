@@ -1,0 +1,11 @@
+{
+  "flow" : {
+    "createdTimestamp" : 1774315215048,
+    "description" : "",
+    "identifier" : "get-file-group",
+    "lastModifiedTimestamp" : 1774315215048,
+    "name" : "get file group",
+    "versionCount" : 0
+  },
+  "latest" : false
+}
