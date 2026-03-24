@@ -55,8 +55,8 @@
       "groupIdentifier" : "flow-contents-group",
       "identifier" : "6af12c70-bbd6-3828-b5cd-0f1a3a94ab7c",
       "position" : {
-        "x" : 240.0,
-        "y" : -168.0
+        "x" : 440.0,
+        "y" : -224.0
       }
     } ],
     "identifier" : "flow-contents-group",
@@ -89,15 +89,15 @@
       "name" : "GetFile",
       "penaltyDuration" : "30 sec",
       "position" : {
-        "x" : 112.0,
-        "y" : -496.0
+        "x" : 272.0,
+        "y" : -576.0
       },
       "properties" : {
         "Keep Source File" : "true",
         "Minimum File Age" : "0 sec",
         "Polling Interval" : "30 sec",
         "Input Directory" : "C:\\Users\\AnthonyChamberas\\Downloads",
-        "Batch Size" : "10",
+        "Batch Size" : "20",
         "Minimum File Size" : "0 B",
         "Ignore Hidden Files" : "true",
         "Recurse Subdirectories" : "true",
@@ -210,6 +210,6 @@
   "snapshotMetadata" : {
     "author" : "57bc8412-fb91-4f1b-b3bc-e5a416461840",
     "flowIdentifier" : "test-flow2",
-    "timestamp" : 1774376668159
+    "timestamp" : 1774376722125
   }
 }
